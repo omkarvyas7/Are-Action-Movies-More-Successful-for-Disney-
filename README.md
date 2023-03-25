@@ -1,1 +1,2 @@
 # Are-Action-Movies-More-Successful-for-Disney-
+The objective of the project is to investigate whether the "Genre" category has a significant impact on a movie's success. The proxy measure used to determine the success of a movie is its gross revenue. The study also takes into account various other variables such as budget, year of release, star power, and IMDB rating and analyzes how they influence the movie's success.
